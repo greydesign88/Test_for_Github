@@ -1,1 +1,2 @@
 I've changed this file.
+Let me add some new lines.
